@@ -24,7 +24,16 @@ The dataset consists of **20 Indian food classes**, each containing approximatel
 ## User Interface & Results  
 Below are sample images of the UI and the model predictions:  
 
-*UI `![UI Screenshot](output/interface1.png)`)*  
+### 🖥️ UI Screenshot  
+![UI Screenshot](output/interface1.png)  
+![UI Screenshot](output/interface2.png)  
 
+### 📊 Prediction Results  
+Multiclass Model - 
+![Prediction Result](output/multiClass.png)  
+MultiLabel (Ensemble) Model - 
+![Prediction Result](output/MultiLabel.png) 
+PreTrained Resnet 50 - 
+![Prediction Result](output/pretrained.png) 
 ## Installation  
 
