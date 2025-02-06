@@ -40,7 +40,7 @@ PreTrained Resnet 50 -
 Follow these steps to set up and run the project locally:  
   
 ```bash
-git clone https://github.com/your-repo/IMLFoodProject.git
+git clone https://github.com/kshypjn/IMLFoodProject.git
 cd IMLFoodProject
 pip install -r requirements.txt
 python3 main.py
