@@ -9,7 +9,7 @@ The system supports three different models:
 - **Multi-Label Model** – A separate model is trained for each food item, enabling detection of multiple foods in a composite image.  
 - **Pretrained ResNet-50 Model** – Fine-tuned for Indian food classification, leveraging transfer learning for feature extraction.  
  
-
+Team : Jaee Ponde, Kashyap J and Saumya Mishra
 ## Dataset  
 The dataset consists of **20 Indian food classes**, each containing approximately **300 images** of isolated food items. The models were trained on these **individual images** and later tested on **composite images** with multiple foods.  
 [Dataset Link](https://www.kaggle.com/datasets/l33tc0d3r/indian-food-classification)  
